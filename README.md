@@ -4,7 +4,8 @@ The objective of this project was to create a smart M&M sorter machine that coul
 
 ![image](https://github.com/akrabacik/M-M-Sorting-Machine/assets/43686788/17d8a890-b258-456e-82e1-e3ff1318c010)
 ********************************************************************
-![image](https://github.com/akrabacik/M-M-Sorting-Machine/assets/43686788/28ae3aee-20ca-4484-b1b6-39ffba49138d)
+![image](https://github.com/akrabacik/M-M-Sorting-Machine/assets/43686788/d23754e7-b1b7-4c61-9707-c7cd9e125c40)
+
 ********************************************************************
 ![image](https://github.com/akrabacik/M-M-Sorting-Machine/assets/43686788/17ef9837-5e00-48b7-bec3-d9cd4efcb17c)
 
